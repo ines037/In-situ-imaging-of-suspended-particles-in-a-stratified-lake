@@ -475,5 +475,14 @@ Armelle Bouhali write FindRelevantRawHolograms.m, Separate2profiles.m, CSVtitles
 Inès Laury write the remaining scripts.
 
 ---
+## Citation
+
+If you use this code, please cite:
+
+LISST-Holo processing pipeline (v1.1)
+
+GitHub: https://github.com/ines037/In-situ-imaging-of-suspended-particles-in-a-stratified-lake
+
+DOI (Zenodo): 10.5281/zenodo.20523380
 
 
