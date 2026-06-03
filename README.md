@@ -218,7 +218,7 @@ Modified *_All.csv
 
 ---
 
-### ChangeDate_safe.m
+### ChangeDate.m
 
 Corrects acquisition dates stored in the ALL file.
 
@@ -287,7 +287,7 @@ Updated PSTAT files
 
 ## Step 5 – Scientific Analyses
 
-### SizeDistribution.m
+### PlotSizeDistr.m
 
 Main script for particle size distribution analysis.
 
@@ -402,7 +402,7 @@ For a new acquisition campaign:
 8. SizeParticle.m
 
 
-### Pipeline
+Pipeline
 Raw data
    ↓
 FindRelevantRawHolograms
